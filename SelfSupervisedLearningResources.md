@@ -4,7 +4,17 @@
 
 * [Cookbook of Self-Supervised Learning, Balestriero, R, Ibrahim, M, et al., 2023](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/Cookbook_of_selfsupervised_learning.pdf)
 
-## Medium 
+## Online Tutorials and Short Readings
+
+### Meta AI Research blog
+
+* [Self-supervised learning: the dark matter of intelligence](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)
+
+### Youtube
+
+* [A General Purpose Navigation Model, Sergey Levine](https://www.youtube.com/watch?v=Bf30cs5MU1I&t=513s)
+
+### Medium 
 
 
 * Curious Agents: An Introduction with Dries Smith
