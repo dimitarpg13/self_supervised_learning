@@ -2,6 +2,8 @@
 
 ## Articles and papers
 
+* [Cookbook of Self-Supervised Learning, Balestriero, R, Ibrahim, M, et al., 2023](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/Cookbook_of_selfsupervised_learning.pdf)
+
 ## Medium 
 
 
