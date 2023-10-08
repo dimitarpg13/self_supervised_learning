@@ -52,3 +52,7 @@
 * Decisions from Data: How Offline Reinforcement Learning Will Change How We Use Machine Learning with Sergey Levine
 
     https://medium.com/@sergey.levine/decisions-from-data-how-offline-reinforcement-learning-will-change-how-we-use-ml-24d98cb069b0
+
+* Self-Supervised Learning Using Projection Heads: Boost performance with unlabeled data with Daniel Warfield
+
+    https://towardsdatascience.com/self-supervised-learning-using-projection-heads-b77af3911d33
