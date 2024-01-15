@@ -2,6 +2,14 @@
 
 ## Articles and papers
 
+### Offline Reinforcement Learning
+
+* [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems, Sergey Levine et al, UC Berkeley, Google Research, 2020](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/OfflineReinforcementLearningTutorialReviewLevine2020.pdf)
+
+* [Understanding The World Through Action, Sergey Levine, UC Berkeley, 2021](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/Understanding_the_World_Through_Action_Levine_2021.pdf)
+
+### Self-Supervised Learning
+
 * [Cookbook of Self-Supervised Learning, Balestriero, R, Ibrahim, M, et al., 2023](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/Cookbook_of_selfsupervised_learning.pdf)
 
 ## Online Tutorials and Short Readings
