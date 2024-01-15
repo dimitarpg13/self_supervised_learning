@@ -20,10 +20,37 @@
 
     https://medium.com/@sergey.levine/decisions-from-data-how-offline-reinforcement-learning-will-change-how-we-use-ml-24d98cb069b0
 
+    related paper: [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems, Sergey Levine et al, UC Berkeley, Google Research, 2020](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/OfflineReinforcementLearningTutorialReviewLevine2020.pdf)
+
+    related paper: [D4RL: Datasets for Deep Data-Driven Reinforcement Learning, Justin Fu et al, UC Berkeley, 2021](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/D4RL-Datasets_for_Deep_Data-Driven_Reinforcement_Learning_Fu_UCBerkeley_2021.pdf)
 
 * The Monster of Distributional Shift in Offline Reinforcement Learning and How to Pacify it
 
     https://medium.com/@athanasios.kapoutsis/the-monster-of-distribution-shift-in-offline-rl-and-how-to-pacify-it-4ea9a5db043
+
+    related paper: [Generalization in Humans and Deep Neural Networks, R. Geirhos et al, UoTubingen, 2020](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/Generalisation_in_humans_and_deep_neural_networks_Geirhos_2020.pdf)
+
+    related paper: [A Survey on Offline Reinforcement Learning: Taxonomy, Review and Open Problems, RF Prudencio et al, 2023](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/A_Survey_on_Offline_Reinforcement_Learning-Taxonomy_Review_and_Open_Problems_Prudencio_2023.pdf)
+
+    related paper: [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems, Sergey Levine et al, UC Berkeley, Google Research, 2020](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/OfflineReinforcementLearningTutorialReviewLevine2020.pdf)
+
+    related paper: [When Should We Prefer Offline Reinforcement Learning Over Behavioral Cloning?, Aviral Kumar et al, UC Berkeley, Google Research, 2022](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/When_Should_We_Prefer_Offline_Reinforcement_Learning_over_Behavioral_Cloning_Kumar_UCBerkeley_2022.pdf)
+
+    related paper: [Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction, Aviral Kumar et al, UC Berkeley, Google Brain, 2019](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/Stabilizing_Off-Policy_Q-Learning_via_Bootstrapping_Error_Reduction_Kumar_UCBerkeley_2019.pdf)
+
+    related paper: [Off-Policy Deep Reinforcement Learning without Exploration, S. Fujimoto et al, 2019](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/Off-Policy_Deep_Reinforcement_Learning_without_Exploration_Fujimoto_2019.pdf)
+
+    related paper: [Way Off-Policy Batch Deep Reinforcement Learning of Implicit Human Preferences in Dialog, N. Jaques et al, MIT, 2019](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/Way_Off-Policy_Batch_Deep_Reinforcement_Learning_of_Implicit_Human_Preferences_in_Dialog_Jaques_MIT_2019.pdf)
+
+    related paper: [Relative Entropy Policy Search, Jan Peters et al, Max Planck Institute, 2010](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/Relative_entropy_policy_search_Peters_MaxPlanck_2010.pdf)
+
+    related paper: [Awac: accelerating online reinforcement learning with offline datasets, A. Nair, UC Berkeley, 2020](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/AWAC-Accelerating_Online_Reinforcement_Learning_with_Offline_Datasets_Nair_2021.pdf)
+
+    related paper: [Advantage-weighted regression: simple and scalable off-policy reinforcement learning, XB Peng et al, UC Berkeley, 2019](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/Advantage-Weighted_Regression-Simple_and_Scalable_Off-Policy_Reinforcement_Learning_Peng_UCBerkeley_2019.pdf)
+
+    related paper: [Offline reinforcement learning with implicit q-learning, I. Kostrikov et al, UC Berkeley, 2021](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/Offline_Reinforcement_Learning_with_Implicit_Q-Learning_Kostrikov_UCBerkeley_2021.pdf)
+
+    related paper: [Conservative q-learning for offline reinforcement learning, Aviral Kumar et al, UC Berkeley, 2020](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/Conservative_Q-Learning_for_Offline_Reinforcement_Learning_Kumar_2020.pdf)
 
 * Curious Agents: An Introduction with Dries Smith
 
