@@ -6,7 +6,19 @@
 
 * [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems, Sergey Levine et al, UC Berkeley, Google Research, 2020](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/OfflineReinforcementLearningTutorialReviewLevine2020.pdf)
 
+* [A Survey on Offline Reinforcement Learning: Taxonomy, Review and Open Problems, RF Prudencio et al, 2023](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/A_Survey_on_Offline_Reinforcement_Learning-Taxonomy_Review_and_Open_Problems_Prudencio_2023.pdf)
+
 * [Understanding The World Through Action, Sergey Levine, UC Berkeley, 2021](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/Understanding_the_World_Through_Action_Levine_2021.pdf)
+
+* [When Should We Prefer Offline Reinforcement Learning Over Behavioral Cloning?, Aviral Kumar et al, UC Berkeley, Google Research, 2022](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/When_Should_We_Prefer_Offline_Reinforcement_Learning_over_Behavioral_Cloning_Kumar_UCBerkeley_2022.pdf)
+
+* [Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction, Aviral Kumar et al, UC Berkeley, Google Brain, 2019](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/Stabilizing_Off-Policy_Q-Learning_via_Bootstrapping_Error_Reduction_Kumar_UCBerkeley_2019.pdf)
+
+* [Off-Policy Deep Reinforcement Learning without Exploration, S. Fujimoto et al, 2019](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/Off-Policy_Deep_Reinforcement_Learning_without_Exploration_Fujimoto_2019.pdf)
+
+* [Way Off-Policy Batch Deep Reinforcement Learning of Implicit Human Preferences in Dialog, N. Jaques et al, MIT, 2019](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/Way_Off-Policy_Batch_Deep_Reinforcement_Learning_of_Implicit_Human_Preferences_in_Dialog_Jaques_MIT_2019.pdf)
+
+* [Weakly-Supervised Reinforcement Learning for Controllable Behavior, L. Lee et al, CMU, NeurIPS, 2020](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/NeurIPS-2020-weakly-supervised-reinforcement-learning-for-controllable-behavior-Paper.pdf)
 
 ### Self-Supervised Learning
 
