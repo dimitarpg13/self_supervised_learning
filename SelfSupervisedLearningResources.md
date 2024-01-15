@@ -20,6 +20,8 @@
 
 * [Weakly-Supervised Reinforcement Learning for Controllable Behavior, L. Lee et al, CMU, NeurIPS, 2020](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/NeurIPS-2020-weakly-supervised-reinforcement-learning-for-controllable-behavior-Paper.pdf)
 
+* [Hierarchical Relative Enthropy Policy Search, Christian Daniel et al, TU Darmstadt, 2000](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/Hierarchical_Relative_Entropy_Policy_Search_Kroemer_Daniel_JMLR_2016.pdf)
+
 ### Self-Supervised Learning
 
 * [Cookbook of Self-Supervised Learning, Balestriero, R, Ibrahim, M, et al., 2023](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/Cookbook_of_selfsupervised_learning.pdf)
