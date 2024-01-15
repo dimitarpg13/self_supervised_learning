@@ -26,6 +26,8 @@
 
 * [Online Relative Entropy Policy Search using Reproducing Kernel Hilbert Space Embeddings, Z. Chen et al, Huawei, 2016](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/Online_Relative_Entropy_Policy_Search_using_Reproducing_Kernel_Hilbert_Space_Embeddings_chen_2016.pdf)
 
+* [Should I Run Offline Reinforcement Learning or Behavioral Cloning? Aviral Kumar et al, UC Berkeley, 2021](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/should_i_run_offline_reinforcement_learning_or_behavioral_cloning_kumar_ucberkeley_2021.pdf)
+
 ### Self-Supervised Learning
 
 * [Cookbook of Self-Supervised Learning, Balestriero, R, Ibrahim, M, et al., 2023](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/Cookbook_of_selfsupervised_learning.pdf)
