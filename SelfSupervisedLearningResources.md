@@ -1,4 +1,4 @@
-# Self-Supervised Learning Resources
+# Self-Supervised Learning  and Offline Reinforcement Learning Resources
 
 ## Articles and papers
 
@@ -16,6 +16,9 @@
 
 ### Medium 
 
+* The Monster of Distributional Shift in Offline Reinforcement Learning and How to Pacify it
+
+    https://medium.com/@athanasios.kapoutsis/the-monster-of-distribution-shift-in-offline-rl-and-how-to-pacify-it-4ea9a5db043
 
 * Curious Agents: An Introduction with Dries Smith
 

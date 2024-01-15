@@ -1,5 +1,6 @@
 # Self Supervised Learning
-Discussion on Self Supervised Learning methods and modeling techniques
+Discussion on Self Supervised Learning methods and modeling techniques. 
+Also provides Materials on Offline Reinforcement Learning.
 This repo is a work in progress.
 
 
