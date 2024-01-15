@@ -1,4 +1,4 @@
-# Self-Supervised Learning  and Offline Reinforcement Learning Resources
+# Offline Reinforcement Learning and Self-Supervised Learning Resources
 
 ## Articles and papers
 
