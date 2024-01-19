@@ -32,6 +32,8 @@
 
 * [Neural Fitted Q Iteration - First Experiences with a Data Efficient Neural Reinforcement Learning Method (with annotations), M. Riedmiller, 2005](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/Neural_Fitted_Q_Iteration-First_Experiences_with_a_Data_Efficient_Neural_Reinforcement_Learning_Method_Riedmiller_2005_annotated.pdf)
 
+* [Tree-Based Batch Mode Reinforcement Learning, Damien Ernst, Pierre Guerts, Louis Wehenkel, 2005](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/Tree-Based_Batch_Mode_Reinforcement_Learning_Ernst_2005.pdf)
+
 ### Self-Supervised Learning
 
 * [Cookbook of Self-Supervised Learning, Balestriero, R, Ibrahim, M, et al., 2023](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/Cookbook_of_selfsupervised_learning.pdf)
