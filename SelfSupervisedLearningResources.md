@@ -30,6 +30,8 @@
 
 * [Batch Reinforcement Learning, Sascha Lange, Thomas Gabel, Martin Riedmiller, Chapter of "Reinforcement Learning State of Art", 2012](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/Lange_Gabel_EtAl_RL-Book-12.pdf)
 
+* [Neural Fitted Q Iteration - First Experiences with a Data Efficient Neural Reinforcement Learning Method (with annotations), M. Riedmiller, 2005](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/Neural_Fitted_Q_Iteration-First_Experiences_with_a_Data_Efficient_Neural_Reinforcement_Learning_Method_Riedmiller_2005_annotated.pdf)
+
 ### Self-Supervised Learning
 
 * [Cookbook of Self-Supervised Learning, Balestriero, R, Ibrahim, M, et al., 2023](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/Cookbook_of_selfsupervised_learning.pdf)
