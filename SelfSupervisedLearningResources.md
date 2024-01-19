@@ -28,6 +28,8 @@
 
 * [Should I Run Offline Reinforcement Learning or Behavioral Cloning? Aviral Kumar et al, UC Berkeley, 2021](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/should_i_run_offline_reinforcement_learning_or_behavioral_cloning_kumar_ucberkeley_2021.pdf)
 
+* [Batch Reinforcement Learning, Sascha Lange, Thomas Gabel, Martin Riedmiller, Chapter of "Reinforcement Learning State of Art", 2012](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/Lange_Gabel_EtAl_RL-Book-12.pdf)
+
 ### Self-Supervised Learning
 
 * [Cookbook of Self-Supervised Learning, Balestriero, R, Ibrahim, M, et al., 2023](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/Cookbook_of_selfsupervised_learning.pdf)
