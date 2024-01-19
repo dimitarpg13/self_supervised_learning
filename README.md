@@ -1,12 +1,15 @@
-# Self Supervised Learning
-Discussion on Self Supervised Learning methods and modeling techniques. 
-Also provides Materials on Offline Reinforcement Learning.
+# Offline Reinforcement Learning and Self Supervised Learning
+Provides Materials on Offline Reinforcement Learning.
+Also Discussion on Self Supervised Learning methods and modeling techniques. 
+
 This repo is a work in progress.
 
 
 ## Other Relevant Work
  
  * [Reinforcement Learning](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/ReinforcementLearningAndGameTheoryResources.md)
+
+ * [Offline Reinforcement and Self-Supervised Learning](https://github.com/dimitarpg13/self_supervised_learning/blob/main/SelfSupervisedLearningResources.md)
 
  * [NLP Concepts](https://github.com/dimitarpg13/nlp_concepts/blob/main/NLPResources.md)
  
