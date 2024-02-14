@@ -15,7 +15,7 @@ This repo is a work in progress.
  
  * [Transformers](https://github.com/dimitarpg13/transformers_intro/blob/main/TransformersResources.md)
  
- * [Large Language Models](https://github.com/dimitarpg13/large_language_models/blob/main/LargeLanguageModelsResoruces.md)
+ * [Large Language Models](https://github.com/dimitarpg13/large_language_models/blob/main/LargeLanguageModelsResources.md)
  
  * [Bayesian Networks](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/LearningBayesianNetworksResources.md)
  
