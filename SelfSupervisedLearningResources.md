@@ -38,6 +38,10 @@
 
 * [Cookbook of Self-Supervised Learning, Balestriero, R, Ibrahim, M, et al., 2023](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/Cookbook_of_selfsupervised_learning.pdf)
 
+* [Self-Supervised Learning, Self-Prediction and Contrastive Learning, Lilian Weng, Jong Wook Kim NeurIPS 2021 Tutorial](https://github.com/dimitarpg13/self_supervised_learning/blob/main/docs/Self-Supervised_Learning_Self-Prediction_and_Contrastive_Learning_Lilian_Weng_Tutorial_2021.pdf)
+
+* [Self-Supervised Learning in Vision From Research Advances to Best Practices, CML 2023 Tutorial Part 1-A, Xinlei Chen](https://github.com/dimitarpg13/self_supervised_learning/blob/main/docs/Self-Supervised_Learning_in_Vision_Chen_2023.pdf)
+
 ## Online Tutorials and Short Readings
 
 ### Meta AI Research blog
