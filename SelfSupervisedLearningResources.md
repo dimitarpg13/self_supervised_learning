@@ -50,6 +50,8 @@
 
 * [LeJEPA: Provable and Scalable Self-Supervised Learning Without the Heuristics, R. Balestriero and Yann LeCun, 2025](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/LeJEPA-Provable_and_Scalable_Self-Supervised_Learning_Without_the_Heuristics_Balestriero_2025.pdf)
 
+  related huggingface repo: https://huggingface.co/gajeshladhar/core-jepa
+
 * [Deep Dive into Yann LeCun’s JEPA, Rohit Bandaru, July 31, 2024, online article](https://rohitbandaru.github.io/blog/JEPA-Deep-Dive/)
 
 * [Topic 4: What is JEPA? Valeriia Kuka, June 12, 2024, online article](https://www.turingpost.com/p/jepa)
