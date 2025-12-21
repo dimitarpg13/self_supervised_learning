@@ -42,6 +42,18 @@
 
 * [Self-Supervised Learning in Vision From Research Advances to Best Practices, CML 2023 Tutorial Part 1-A, Xinlei Chen](https://github.com/dimitarpg13/self_supervised_learning/blob/main/docs/Self-Supervised_Learning_in_Vision_Chen_2023.pdf)
 
+* [The Birth of Self-Supervised Learning, R. Balestriero and Yann LeCun, 2025](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/The_Birth_of_Self_Supervised_Learning_Ballestriero_2025.pdf)
+
+#### Joint-Embedding Predictive Architecture (JEPA)
+
+* [Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture, M. Assran et al, 2023](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/Self-Supervised_Learning_from_Images_with_a_Joint-Embedding_Predictive_Architecture_Assran_2023.pdf)
+
+* [LeJEPA: Provable and Scalable Self-Supervised Learning Without the Heuristics, R. Balestriero and Yann LeCun, 2025](https://github.com/dimitarpg13/self_supervised_learning/blob/main/literature/LeJEPA-Provable_and_Scalable_Self-Supervised_Learning_Without_the_Heuristics_Balestriero_2025.pdf)
+
+* [Deep Dive into Yann LeCun’s JEPA, Rohit Bandaru, July 31, 2024, online article](https://rohitbandaru.github.io/blog/JEPA-Deep-Dive/)
+
+* [Topic 4: What is JEPA? Valeriia Kuka, June 12, 2024, online article](https://www.turingpost.com/p/jepa)
+
 ## Online Tutorials and Short Readings
 
 ### Meta AI Research blog
