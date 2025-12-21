@@ -2,3 +2,4 @@ docs/Self-Supervised_Learning_Self-Prediction_and_Contrastive_Learning_Lilian_We
 docs/Self-Supervised_Learning_in_Vision_Chen_2023.pdf filter=lfs diff=lfs merge=lfs -text
 literature/Self-Supervised_Learning_from_Images_with_a_Joint-Embedding_Predictive_Architecture_Assran_2023.pdf filter=lfs diff=lfs merge=lfs -text
 literature/Self-Supervised_Learning_for_Time_Series_Analysis-Taxonomy_Progress_and_Prospects_Zhang_2024.pdf filter=lfs diff=lfs merge=lfs -text
+literature/LeJEPA-Provable_and_Scalable_Self-Supervised_Learning_Without_the_Heuristics_Balestriero_2025.pdf filter=lfs diff=lfs merge=lfs -text
